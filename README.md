@@ -14,3 +14,6 @@ In the manual control of the jetbot, what we did well was to complete it in a ve
 The link below is the second part of the video of automatic controlled racing
 https://www.youtube.com/watch?v=p94XSGbaJH0
 In the autonomous driving part of the jetbot, the jetbot did not collide with obstacles and the two tires did not leave the track at the same time. It was able to recognize the traffic lights well and make corresponding stop or forward instructions. What we did not do well is that due to network delays, jetbot will experience delayed response in some places.
+
+3. If we had the opportunity to redo this project, we would do the following:
+In this jetbot project, we only turned on the fan on the jetbot through code at the end. If we had the opportunity to redo this jetbot project, we would turn on the fan at the beginning of running the jetbot to cool the power supply on the jetbot, instead of spending a long time naturally cooling it to avoid overheating the power supply and causing problems with the driving path of the jetbot.
