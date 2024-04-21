@@ -8,7 +8,7 @@ programatic motor control, to more advanced topics like training a custom AI for
 
 You can find the necessary codes for modeling and test in "Code" folder.
 
-You can find the details and other necessary things in "jetbot" folder.
+You can find the details and other necessary things in "Resource" folder.
 # 1. Strategy to win each race
    
  Strategies for winning manually controlled jetbots
