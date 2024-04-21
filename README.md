@@ -11,11 +11,13 @@ In the Road Following part, we take as many pictures as possible of the road tha
 # 2. Results of two tasks
 The link below is the first part of the competition video
   Manually controlling the jetbot.
+      
        https://www.youtube.com/watch?v=5xvlz55M-xw
 In the manual control of the jetbot, what we did well was to complete it in a very short time without hitting obstacles and the two tires did not leave the track at the same time. What we didn't do well was not being consistent in the turns.
 
 The link below is the second part of the video 
   Automatic controlled racing
+      
        https://www.youtube.com/watch?v=p94XSGbaJH0
 In the autonomous driving part of the jetbot, the jetbot did not collide with obstacles and the two tires did not leave the track at the same time. It was able to recognize the traffic lights well and make corresponding stop or forward instructions. What we did not do well is that due to network delays, jetbot will experience delayed response in some places.
 
