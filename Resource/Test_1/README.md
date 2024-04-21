@@ -5,4 +5,4 @@ You can find that we did not use the joystick of the Gamepad Controller, instead
 The left and right triggers represent reverse and forward, and the left and right directional keys represent turn.
 The advantage of this method is that the speed of the Jetbot will become very fast on straight roads, and the maneuverability on bends is much better than the joystick method.
 
-You can 
+You can view the live demo for task 1 through the link below.
